@@ -13,25 +13,25 @@
         "inprogress" : [
           {
             "name" : "Short Name",
-            "description" : "Bacon ipsum dolor amet capicola pancetta ham hock, shoulder shank bacon swine shankle filet mignon meatball short ribs jowl doner tail. ",
+            "description" : " At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non",
             "percentage" : 10,
             "suites" : [ "Restaurant bundle"]
           },
           {
             "name" : "Longer App Name That Is Longer",
-            "description" : "Chicken tri-tip turducken picanha, leberkas pork chop meatball swine frankfurter. Tongue spare ribs t-bone shank rump pork corned beef hamburger ball tip pancetta leberkas. Sausage brisket ham, chuck andouille picanha strip steak fatback rump ground round turducken. Flank shank venison salami.",
+            "description" : " At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum ",
             "percentage" : 20,
             "suites" : [ "Gift", "Ecommerce bundle (ODP)", "New"]
           },
                     {
-            "name" : "Longer App Name That Is Longer",
-            "description" : "Sirloin short loin cow, filet mignon meatloaf turducken shank andouille swine landjaeger leberkas beef. Doner tail rump, spare ribs drumstick ham hamburger pork belly pork jerky biltong short ribs. Ham hock chuck tri-tip, pork belly andouille sirloin landjaeger jowl alcatra shank cow. Chuck pork chop brisket strip steak..",
+            "name" : "App Name 1",
+            "description" : " At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum ",
             "percentage" : 20,
             "suites" : [ "Gift", "Ecommerce bundle (ODP)", "Retail bundle", "New"]
           },
           {
-            "name" : "Longer App Name That Is Longer",
-            "description" : "Kevin swine pork belly porchetta spare ribs beef, prosciutto beef ribs shoulder tongue short ribs ham. Sausage shoulder meatloaf tenderloin ball tip jowl shankle meatball pig. Swine corned beef turkey sirloin shoulder, filet mignon tenderloin tail. Kielbasa chicken sirloin, frankfurter pork filet mignon alcatra doner fatback turducken t-bone beef capicola. Flank pork belly leberkas, meatball ball tip filet mignon beef corned beef porchetta cow boudin turducken. Landjaeger tri-tip leberkas andouille chuck rump. Filet mignon drumstick t-bone shoulder.",
+            "name" : "App Name 2",
+            "description" : " At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum  At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum",
             "percentage" : 20,
             "suites" : [ "Gift"]
           }
@@ -39,14 +39,14 @@
         "completed" : [
           {
             "name" : "Lots Of Icons",
-            "description" : "Bacon ipsum dolor amet capicola pancetta ham hock, shoulder shank bacon swine shankle filet mignon meatball short ribs jowl doner tail. ",
+            "description" : " At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque ",
             "percentage" : 100,
             "suites" : [ "Retail bundle", "Retail Element", "Gift", "Ecommerce DevHub", "ODP Ecommerce"]
           }, 
           {
 
             "name" : "Completed App",
-            "description" : "Bacon ipsum dolor amet capicola pancetta ham hock, shoulder shank bacon swine shankle filet mignon meatball short ribs jowl doner tail. ",
+            "description" : " At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores ",
             "percentage" : 100,
             "suites" : [ "Restaurant bundle", "Retail bundle"]
           }
